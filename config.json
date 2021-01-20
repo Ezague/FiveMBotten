@@ -1,7 +1,7 @@
 {
     "token": "DIT TOKEN",
     "prefix": "DIT PREFIX",
-    "cfx": "DIN CFG IP",
+    "cfx": "DIN CFX IP",
     "host": "localhost",
     "user": "root",
     "password": "",
