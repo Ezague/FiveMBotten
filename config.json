@@ -1,0 +1,15 @@
+{
+    "token": "Nzk0NjQ0NzU3MjQ1NTkxNTUz.X-90mQ.b4D1V-Yo_3gizFAivZy2CJBewMg",
+    "prefix": "DIT PREFIX",
+    "cfx": "DIN CFG IP",
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "vrp",
+    "bangroup": "Gruppenavn på gruppen der kan banne/unbanne folk på FiveM serverenen",
+    "whitelistgroup": "Gruppenavn på gruppen der kan whitelist/unwhitelist folk på FiveM serveren",
+    "logchannel": "KanalID på jeres log kanal.",
+    "supportchannel": "Navnet på jeres support kanal.",
+    "ticketchannel": "Navnet på jeres ticket kanal.",
+    "supporterrole": "Navnet på jeres staff rolle."
+}
